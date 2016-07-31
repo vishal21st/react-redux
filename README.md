@@ -1,6 +1,10 @@
 # A simple React Redux app for learning purpose
 
+# **Portfolio List Page**
 ![Portfolios](/public/portfolios.png?raw=true "Portfolios")
+
+# **Portfolio Page**
+![Portfolio](/public/portfolio.png?raw=true "Portfolio")
 
 Step 1:
 
