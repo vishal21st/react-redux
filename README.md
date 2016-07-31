@@ -16,8 +16,6 @@ run `npm install`
 
 Step 3:
 
-run `npm webpack`
-
 run `npm run webpack`
 
 Step 4:
