@@ -1,0 +1,24 @@
+
+https://www.youtube.com/watch?v=E60LER5VKEI
+
+1. Define a json that represents a collection of shares that amount to 100%, there has to be multiple portfolios that can be defined.
+example
+
+portfolio_1: {
+name:
+image:
+constituents: {
+ [
+  {	symbol: INFY, 
+    participation: 10%
+  },
+ ]
+}
+}
+
+
+2. List all portfolios in the page and let user search them
+
+3. WHen i select one of the portfolio, go to detail page and let me customize the constituents
+
+4. Once i am done with customization, take me to a final page that lists my customized portfolio

@@ -1,0 +1,63 @@
+.portfolio-page {
+	border: 1px solid $light-grey;
+	padding: 30px;
+	border-radius: 4px;
+
+	.portfolio-page-header {
+		position: relative;
+		min-height: 100px;
+		margin-bottom: 50px;
+		.portfolio-thumb {
+			height: 100px;
+			width: 100px;
+			position: absolute;
+			left: 0;
+			top: 0;
+			>img {
+				height: 100%;
+				width: 100%;
+			}
+		}
+		
+		.header-back {
+
+		}
+		
+		.go-back-link {
+
+		}
+		
+		.portfolio-header-actions {
+
+		}
+
+		.portfolio-meta-action-wrap {
+			padding-left: 130px;
+		}
+
+		.portfolio-name {
+			margin-bottom: 15px;
+		}
+	}
+
+	.portfolio-constituents-table {
+		.table-header {
+			background: $light-grey;
+			padding: 15px 0;
+			font-weight: 600;
+		}
+
+		.table-body {
+			border: 1px solid $light-grey;
+		}
+
+		.table-row {
+			overflow: hidden;
+		}
+
+		.table-item {
+			padding: 15px;
+			border-right: 1px solid $light-grey;
+		}
+	}
+}
