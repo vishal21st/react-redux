@@ -1,5 +1,7 @@
 # A simple React Redux app for learning purpose
 
+![Portfolios](/public/portfolios.png?raw=true "Portfolios")
+
 Step 1:
 
 Clone Repo
